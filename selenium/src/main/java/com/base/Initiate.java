@@ -13,6 +13,7 @@ public class Initiate {
 	
 	public static WebDriver browserLaunch(String browserName)
 	{
+		//MasterChanges
 		WebDriver driver = null;
 		
 		switch (browserName) {
