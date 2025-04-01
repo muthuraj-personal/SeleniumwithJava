@@ -13,6 +13,7 @@ public class Initiate {
 	
 	public static WebDriver browserLaunch(String browserName)
 	{
+		//Muthu
 		WebDriver driver = null;
 		
 		switch (browserName) {
